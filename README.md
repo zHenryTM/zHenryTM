@@ -1,5 +1,4 @@
-<h1>👋 Hi, I’m Asheley Henrique</h1>
-<hr>
+<h1 style="text-align: center">👋 Hi, I’m Asheley Henrique</h1>
 
 - 👀 I’m interested in Programming, bodybuilding and Games
 - 🌱 I’m currently learning about Django, Node.js, Express and Back-end development
