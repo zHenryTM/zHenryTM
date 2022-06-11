@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @zHenryTM
+👋 Hi, I’m Asheley Henrique
+<hr>
+
 - 👀 I’m interested in Programming, bodybuilding and Games
 - 🌱 I’m currently learning about Django, Node.js, Express and Back-end development
 - 💞️ I’m looking to collaborate on new projects
