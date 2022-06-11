@@ -2,10 +2,10 @@
   <h1> Olá, eu sou Asheley Henrique, desenvolvedor web! </h1>
 </div>
 
-<div>
+<div align="center">
   <a href="https://github.com/zHenryTM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zHenryTM&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zHenryTM&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zHenryTM&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zHenryTM&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
