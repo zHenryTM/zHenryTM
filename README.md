@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zHenryTM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zHenryTM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=%20%20%20%20%20%20%20%20Most%20Used%20Languages" height="130" alt="languages graph"  />
 </div>
 
 ###
@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="center">Contact me</h4>
+<h4 align="center">Contacte me</h4>
 
 ###
 
@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <img height="120" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/jF0_FoYOjVYAAAAd/kirito-tattorix.gif"  />
 </div>
 
 ###
