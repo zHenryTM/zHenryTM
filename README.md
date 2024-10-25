@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zHenryTM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=%20%20%20%20%20%20%20%20Most%20Used%20Languages" height="130" alt="languages graph"  />
-</div>
-
-###
-
 <h4 align="center">My skills</h4>
 
 ###
