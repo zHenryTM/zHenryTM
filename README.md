@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <img src="https://c.tenor.com/rH0jFMF5z3AAAAAC/tenor.gif" />
+  <img src="https://c.tenor.com/rH0jFMF5z3AAAAAC/tenor.gif" height="200" width="200" />
 </div>
 
 ###
