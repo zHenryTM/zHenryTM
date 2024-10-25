@@ -1,4 +1,4 @@
-<h2 align="center">Hello!</h2>
+<h1 align="center">Hello!</h1>
 
 <div align="center">
   <img src="https://c.tenor.com/rH0jFMF5z3AAAAAC/tenor.gif" height="175" width="175" />
