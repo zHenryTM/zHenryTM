@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  ![image](https://github.com/user-attachments/assets/2b355457-b64d-419f-b7ec-118e4815fd6b)
+  <img src="https://c.tenor.com/rH0jFMF5z3AAAAAC/tenor.gif" />
 </div>
 
 ###
