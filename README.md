@@ -40,7 +40,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/jF0_FoYOjVYAAAAd/kirito-tattorix.gif"  />
+  <img height="200" src="[https://media1.tenor.com/m/jF0_FoYOjVYAAAAd/kirito-tattorix.gif](https://media1.tenor.com/m/rH0jFMF5z3AAAAAC/kirito-sao.gif)"  />
 </div>
 
 ###
