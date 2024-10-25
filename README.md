@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">My skills</h4>
+<h3 align="center">My skills</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="center">Contact me</h4>
+<h3 align="center">Contact me</h3>
 
 ###
 
