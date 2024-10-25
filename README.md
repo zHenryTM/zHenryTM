@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="center">Contacte me</h4>
+<h4 align="center">Contact me</h4>
 
 ###
 
