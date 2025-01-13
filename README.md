@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">Minhas skills</h2>
+<h3 align="center">Minhas skills</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="center">Contato</h2>
+<h3 align="center">Contato</h3>
 
 ###
 
