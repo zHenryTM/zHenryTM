@@ -1,7 +1,5 @@
 <h1 align="center">Olá!</h1>
 
-###
-
 <div align="center">
   <img height="175" src="https://media1.tenor.com/m/PCOQEeedgE0AAAAd/yuuki-sao.gif"  />
 </div>
